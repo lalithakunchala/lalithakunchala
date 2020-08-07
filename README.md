@@ -1,5 +1,5 @@
 ### Hi i'm Lalitha. 👋
-##### Tech-Stack: HTML,JavaScript,CSS,React,Redux,Bootstrap,MongoDB,express
+##### Tech-Stack: HTML, JavaScript, CSS, React, Redux, Bootstrap, MongoDB, express
 
 <!--
 **lalithakunchala/lalithakunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
