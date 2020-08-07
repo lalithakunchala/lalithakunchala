@@ -1,4 +1,5 @@
-### Hi i'm lalitha from Hyderabad,Learning  MERN stack from masai in bangalore 👋
+### Hi i'm lalitha 👋
+# Hyderabad
 
 <!--
 **lalithakunchala/lalithakunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
