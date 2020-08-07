@@ -1,6 +1,6 @@
 ### Hi i'm Lalitha. Aspiring to become a full stack developer. 👋
-#####Tech-Stack: HTML,JavaScript,CSS,React,Redux,Bootstrap,MongoDB,express
-#### Hyderabad
+##### Tech-Stack: HTML,JavaScript,CSS,React,Redux,Bootstrap,MongoDB,express
+###### Hyderabad
 
 <!--
 **lalithakunchala/lalithakunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
