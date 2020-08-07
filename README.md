@@ -1,4 +1,5 @@
-### Hi i'm lalitha 👋
+### Hi i'm Lalitha. Aspiring to become a full stack developer. 👋
+#####Tech-Stack: HTML,JavaScript,CSS,React,Redux,Bootstrap,MongoDB,express
 #### Hyderabad
 
 <!--
