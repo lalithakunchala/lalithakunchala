@@ -2,7 +2,8 @@
  
 - 🌱 I’m currently learning MERN stack.
 - 🤔 I’m looking for job
-- 📫 How to reach me:  https://lalithakunchala.github.io/
+- 📫 How to reach me: lalithakunchala@gmail.com
+-  Portfolio: https://lalithakunchala.github.io/
 
 <!--
 **lalithakunchala/lalithakunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
