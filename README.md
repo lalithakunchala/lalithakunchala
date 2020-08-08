@@ -1,7 +1,9 @@
 ### Hi i'm Lalitha. 👋
-##### Tech-Stack: HTML, JavaScript, CSS, React, Redux, Bootstrap, MongoDB, express
-
-twitter [](https://www.linkedin.com/in/lalitha-kunchala-45a7001a1)
+ 
+- 🌱 I’m currently learning MERN stack.
+- 🤔 I’m looking for job
+- 📫 How to reach me: lalithakunchala@gmail.com
+  [portfolio](https://lalithakunchala.github.io/)
 
 <!--
 **lalithakunchala/lalithakunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
