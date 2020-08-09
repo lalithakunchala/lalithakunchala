@@ -19,6 +19,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalithakunchala&layout=compact)]
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=lalithakunchala&&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fcfcfc"/>
 
